@@ -15,7 +15,7 @@ This Python script allows you to download historical stock data for multiple tic
 
 2. Install the required libraries:
 
-pip install yfinance pandas
+`pip install yfinance pandas`
 
 3. Download the `stock_downloader.py` script to your local machine.
 
